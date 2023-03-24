@@ -1,0 +1,17 @@
+.banner{
+    background-color:paleturquoise;
+    height: 80px;
+    width: auto;
+}
+
+.banner-text{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+}
+
+.container{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
